@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+ui credits :- https://dribbble.com/shots/19993178-Mobile-App-Calendar
+
+# App Screenshots
+<img src = " assets/today.jpg" width = "280" height = "600" >'
+<img src = " assets/calender.jpg" width = "280" height = "600" >
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
